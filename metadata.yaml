@@ -1,0 +1,36 @@
+_repo: The-Air-Trust_12826
+_version: 0.0.1
+creator:
+  author:
+    agent_name: England, George Allan
+    birthdate: 1877
+    deathdate: 1936
+    gutenberg_agent_id: '2478'
+    url: http://www.gutenberg.org/2009/agents/2478
+    wikipedia: http://en.wikipedia.org/wiki/George_Allan_England
+description: Isaac Flint, a greedy billionaire businessmen plots to extract oxygen
+  from the air and then sell it back to people if they want to live. Through bribes,
+  blackmail and threats, he forces a group of scientists to develop a means of extracting
+  the oxygen and forces politicians to cooperate with his plan. Soon, surrounded by
+  a private army of guards to prevent the outraged populace from stopping him, Flint
+  has "cornered" the oxygen market, and people everywhere have no choice but to pay
+  for the air they breathe--or see themselves and their families die for lack of oxygen.
+  When Gabriel Armstrong, one of the scientists working for Flint, refuses to go along
+  with the billionaire's mad plan, and is joined by Flint's strong-willed daughter,
+  Catherine, the stage is set for a worldwide conflict that almost brings humankind
+  face-to-face with its final doom.
+gutenberg_issued: '2004-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monopolies -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Air Trust
+url: http://www.gutenberg.org/ebooks/12826
