@@ -1,5 +1,8 @@
 _repo: The-Air-Trust_12826
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: England, George Allan
@@ -19,6 +22,8 @@ description: Isaac Flint, a greedy billionaire businessmen plots to extract oxyg
   with the billionaire's mad plan, and is joined by Flint's strong-willed daughter,
   Catherine, the stage is set for a worldwide conflict that almost brings humankind
   face-to-face with its final doom.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12826#The-Air-Trust
 gutenberg_issued: '2004-07-05'
 gutenberg_type: Text
 identifiers:
